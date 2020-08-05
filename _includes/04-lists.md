@@ -1,0 +1,3 @@
+- [ ] This is list item 1
+- [ ] This is **list** item 2
+- [ ] This is list item <del>2</del> 3
